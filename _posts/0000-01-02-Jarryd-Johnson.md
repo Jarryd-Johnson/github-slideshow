@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to my improved second slide!"
+title: "A 3rd attempt.."
 ---
-If this works, then I managed to get GitHub, Git, and VSCode all playing together nicely
-Use the left arrow to go back!
+I have less space to write here than I thought
